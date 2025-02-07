@@ -2,3 +2,7 @@ Fastapi_text_processing/myenv/
 Fastapi_text_processing/__pycache__/
 *.dll
 *.lib
+Fastapi_text_processing/myenv/
+Fastapi_text_processing/__pycache__/
+*.dll
+*.lib
