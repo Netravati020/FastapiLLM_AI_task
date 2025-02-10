@@ -6,3 +6,13 @@ Fastapi_text_processing/myenv/
 Fastapi_text_processing/__pycache__/
 *.dll
 *.lib
+.env
+
+.env
+__pycache__/
+*.pyc
+*.pyo
+myenv/
+venv/
+*.db
+*.sqlite3
