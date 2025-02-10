@@ -16,3 +16,8 @@ myenv/
 venv/
 *.db
 *.sqlite3
+.env
+__pycache__/
+*.pyc
+*.db
+myenv/
